@@ -1,0 +1,9 @@
+Video Placeholder
+Prompt: generate a video of an old man
+Duration: 5s
+FPS: 30
+Resolution: 720p
+Style: Realistic
+Generated: 2025-07-17 20:41:43.068185
+
+Note: This is a placeholder. Install cv2 and moviepy for actual video generation.

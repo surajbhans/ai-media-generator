@@ -1,0 +1,9 @@
+Video Placeholder
+Prompt: generate a video of a running white horse
+Duration: 5s
+FPS: 30
+Resolution: 720p
+Style: RunwayML
+Generated: 2025-07-17 20:55:15.942125
+
+Note: This is a placeholder. Install cv2 and moviepy for actual video generation.
